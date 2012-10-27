@@ -1,4 +1,3 @@
-Brain_conn_svm_analyzer
+B_conn_analyzer
 =======================
-
-analyse the brain connectivity to explore the regional importance
+analyse b conn
